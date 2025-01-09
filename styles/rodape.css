@@ -2,6 +2,7 @@
     background: var(--cor-azul-escuro);
     padding: 60px 12%;
     font-family: var(--fonte-texto);
+    overflow-x: hidden;
 }
 
 .rodape__linha{
