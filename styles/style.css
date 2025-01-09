@@ -27,6 +27,7 @@
     box-sizing: border-box;
     border: none;
     outline: none;
+    overflow-x: hidden;
 }
 
 body{
